@@ -69,7 +69,7 @@ Tenho paixão pela tecnologia e programação, desenvolvendo projetos pessoais e
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lidianycg&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-### ☑️Linguagens utilizadas
+### ☑️Linguagens mais utilizadas
 
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lidianycg&layout=compact&theme=radical)
 
