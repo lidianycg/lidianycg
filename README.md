@@ -59,7 +59,7 @@ Sou apaixonada por tecnologia, dados e programação. No tempo livre, gosto de d
   <img src="https://img.shields.io/badge/Cursor%20IDE-2F3241?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor IDE"/>
 
   <!-- Inteligência Artificial -->
-  <img src="https://img.shields.io/badge/Inteligência%20Artificial-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Inteligência Artificial"/>
+  <img src="https://img.shields.io/badge/Inteligência%20Artificial-412991?style=for-the-badge&logo=openai&logoColor=white" alt="IA"/>
 
 </div>
 
